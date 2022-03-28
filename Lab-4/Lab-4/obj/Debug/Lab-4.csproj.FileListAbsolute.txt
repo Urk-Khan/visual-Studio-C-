@@ -1,0 +1,41 @@
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\bin\Debug\Lab-4.exe.config
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\bin\Debug\Lab-4.exe
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\bin\Debug\Lab-4.pdb
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.AssemblyReference.cache
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.SuggestedBindingRedirects.cache
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab_4.interest.resources
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab_4.Properties.Resources.resources
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.GenerateResource.cache
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.CoreCompileInputs.cache
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.exe
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab-4.pdb
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab_4.TickTakGame.resources
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab_4.Drawing.resources
+E:\My Folder\Assignments\.net\Practice programs\demoProject\Lab-4\Lab-4\obj\Debug\Lab_4.draw.resources
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.AssemblyReference.cache
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab_4.Drawing.resources
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab_4.interest.resources
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab_4.Properties.Resources.resources
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab_4.TickTakGame.resources
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.GenerateResource.cache
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.CoreCompileInputs.cache
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab-4.exe
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab-4.pdb
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\bin\Debug\Lab-4.exe.config
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\bin\Debug\Lab-4.exe
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\bin\Debug\Lab-4.pdb
+E:\UR Khan\Visual Studio\Lab-4\Lab-4\obj\Debug\Lab_4.ErrorBoxes.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\bin\Debug\Lab-4.exe.config
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\bin\Debug\Lab-4.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\bin\Debug\Lab-4.pdb
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.AssemblyReference.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.SuggestedBindingRedirects.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab_4.Drawing.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab_4.ErrorBoxes.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab_4.interest.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab_4.Properties.Resources.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab_4.TickTakGame.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.GenerateResource.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.csproj.CoreCompileInputs.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-4\Lab-4\obj\Debug\Lab-4.pdb
