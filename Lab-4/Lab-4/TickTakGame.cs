@@ -20,19 +20,22 @@ namespace Lab_4
         }
         private void funCheck()
         {
+            bool win;
+            if (btn11.Text == btn12.Text && btn12.Text == btn13.Text)
+            {
+                MessageBox.Show("Won the game");
+                btn21.Enabled = false;
+                btn22.Enabled = false;
+                btn23.Enabled = false;
+                btn31.Enabled = false;
 
-/*            if (btn11.Text == btn12.Text && btn12.Text == btn13.Text) *//* || (btn21.Text == btn22.Text && btn22.Text == btn23.Text) || (btn31.Text == btn32.Text && btn32.Text == btn33.Text)*//*
-            {
-                MessageBox.Show("Hurrah Player: 1 Won");
+                btn32.Enabled = false;
+
+                btn33.Enabled = false;
+
+
+
             }
-            else if (btn21.Text == btn22.Text && btn22.Text == btn23.Text)
-            {
-                MessageBox.Show("Hurrah Player: 1 Won");
-            }
-            else if (btn31.Text == btn32.Text && btn32.Text == btn33.Text)
-            {
-                MessageBox.Show("Hurrah Player: 1 Won");
-            }*/
 
         }
         private void btnClick(object sender, EventArgs e)
@@ -41,16 +44,17 @@ namespace Lab_4
             if (check == true)
             {
                 btn.Text = "T";
-                funCheck();
+                
             }
             else
             {
                 btn.Text = "F";
-                funCheck();
+               
             }
-            check =! check;
+            check = !check;
+            funCheck();
             btn.Enabled = false;
-            
+
         }
         private void button10_Click(object sender, EventArgs e)
         {
@@ -97,6 +101,24 @@ namespace Lab_4
             btn31.Text = "";
             btn32.Text = "";
             btn33.Text = "";
+        }
+        private void win() {
+
+
+
+
+
+
+
+
+
+
+
+        }
+    
+        private void TickTakGame_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

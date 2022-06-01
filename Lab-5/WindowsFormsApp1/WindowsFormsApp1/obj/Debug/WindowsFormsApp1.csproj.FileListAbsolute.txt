@@ -1,0 +1,23 @@
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DateTimeForm.resources
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DateTimeForm.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

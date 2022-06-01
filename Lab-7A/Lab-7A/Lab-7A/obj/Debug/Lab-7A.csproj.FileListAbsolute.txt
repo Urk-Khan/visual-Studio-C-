@@ -1,0 +1,21 @@
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\bin\Debug\Lab-7A.exe.config
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\bin\Debug\Lab-7A.exe
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\bin\Debug\Lab-7A.pdb
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csprojAssemblyReference.cache
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab_7A.Properties.Resources.resources
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.GenerateResource.cache
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.CoreCompileInputs.cache
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab-7A.exe
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab-7A.pdb
+X:\UR khan\semester 6\.net\visual-Studio-C-\Lab-7A\Lab-7A\obj\Debug\Lab_7A.Form1.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\bin\Debug\Lab-7A.exe.config
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\bin\Debug\Lab-7A.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\bin\Debug\Lab-7A.pdb
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.AssemblyReference.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.SuggestedBindingRedirects.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab_7A.Form1.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab_7A.Properties.Resources.resources
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.GenerateResource.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.csproj.CoreCompileInputs.cache
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.exe
+E:\My Folder\Assignments\.net\Labs\visual-Studio-C-\Lab-7A\Lab-7A\Lab-7A\obj\Debug\Lab-7A.pdb

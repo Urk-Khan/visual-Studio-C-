@@ -16,7 +16,7 @@ namespace Lab_4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ErrorBoxes());
+            Application.Run(new TickTakGame());
         }
     }
 }

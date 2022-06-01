@@ -234,6 +234,7 @@
             this.Name = "TickTakGame";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TickTakGame";
+            this.Load += new System.EventHandler(this.TickTakGame_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab-4",
-    "\\Lab-4\\Lab-4"
+    "\\calculator",
+    "\\calculator\\calculator",
+    "\\Lab-7A\\Lab-7A",
+    "\\Lab-7A\\Lab-7A\\Lab-7A"
   ],
-  "SelectedNode": "\\Lab-4\\Lab-4\\ErrorBoxes.cs",
+  "SelectedNode": "\\calculator\\calculator\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
